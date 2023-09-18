@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: fpm-phage
+Version: 0.0.1
+Author: Griffin Chure
+Author-email: griffinchure@gmail.com
+License: BSD
+Classifier: Development Status :: 1 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
